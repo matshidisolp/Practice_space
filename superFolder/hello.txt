@@ -1,0 +1,4 @@
+Welcome to super folder
+This is a text file
+You can test commands like head, tail 
+Enjoy
